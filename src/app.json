@@ -9,5 +9,23 @@
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "懒虫图书馆",
     "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color":"#000000",
+    "selectedColor":"#e4393c",
+    "list": [
+      {
+        "pagePath":"pages/index/main",
+        "text":"首页"
+      },
+      {
+        "pagePath":"pages/logs/main",
+        "text":"日志"
+      },
+      {
+        "pagePath":"pages/counter/main",
+        "text":"VUEX"
+      }
+    ]
   }
 }
