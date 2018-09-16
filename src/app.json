@@ -6,9 +6,9 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "##e4393c",
+    "navigationBarBackgroundColor": "#e4393c",
     "navigationBarTitleText": "懒虫图书馆",
-    "navigationBarTextStyle": "black"
+    "navigationBarTextStyle": "white"
   },
   "tabBar": {
     "color":"#000000",
