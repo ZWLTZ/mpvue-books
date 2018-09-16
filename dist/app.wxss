@@ -1,4 +1,3 @@
-@import "common/vendor.wxss";
 
 .container {
   height: 100%;
