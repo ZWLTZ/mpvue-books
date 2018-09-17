@@ -6,7 +6,7 @@
 
 ``` bash
 # create project
-vue init mpvue/mpvue-quickstart my-project
+vue init mpvue/mpvue-quickstart project-name
 # install dependencies
 npm install
 
