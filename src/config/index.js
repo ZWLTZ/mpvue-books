@@ -2,7 +2,7 @@
 const host = "http://localhost:5757"
 
 const Config = {
-  host,
+    host,
 }
 
 export default Config
